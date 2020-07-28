@@ -8,4 +8,5 @@
 </a>
 </br>
 
+----
 ![Firman Abdul Hakim GitHub Stats](https://github-readme-stats.vercel.app/api?username=firmanJS&show_icons=true)
