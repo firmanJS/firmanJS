@@ -32,5 +32,3 @@ I'm a Backend Developer from Sukabumi :heart:, **4.5 years of coding** 🧐 :com
 
 ----
 ![Firman Abdul Hakim GitHub Stats](https://github-readme-stats.vercel.app/api?username=firmanJS&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firmanjs&layout=compact)](https://github.com/firmanjs)
