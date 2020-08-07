@@ -1,4 +1,4 @@
-### [Firman Abdul Hakim](https://firmanjs.github.io) :earth_asia:
+### Welcome to my profile :earth_asia:
 
 <a target="_blank" href="https://www.linkedin.com/in/firman-abdul-hakim-2a818b92">
   <img align="left" alt="Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />
@@ -9,7 +9,7 @@
 </br>
 
 ---- 
-Hi, I'm Firman Abdul Hakim, but you can call me **firman or fim**. 
+Hi, I'm [Firman Abdul Hakim](https://firmanjs.github.io), but you can call me **firman or fim**. 
 
 I'm a Backend Developer from Sukabumi :heart:, **4.5 years of coding** 🧐 :computer:. 
 
