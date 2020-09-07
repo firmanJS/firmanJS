@@ -31,7 +31,10 @@ I'm a Backend Developer from Sukabumi :heart:, **4.5 years of coding** 🧐 :com
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
 ----
-![Firman Abdul Hakim GitHub Stats](https://github-readme-stats.vercel.app/api?username=firmanJS&show_icons=true)
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=firmanJS&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firmanJS&layout=compact" />
+</div>
 
 ----
 [![trophy](https://github-profile-trophy.vercel.app/?username=firmanJS)](https://github.com/ryo-ma/github-profile-trophy)
