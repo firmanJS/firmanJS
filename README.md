@@ -11,7 +11,7 @@
 ---- 
 Hi, I'm [Firman Abdul Hakim](https://firmanjs.github.io), but you can call me **firman or fim**. 
 
-I'm a Backend Developer from Sukabumi :heart:, **4.5 years of coding** 🧐 :computer:. 
+I'm a Backend Developer from Sukabumi :heart: 🧐 :computer:. 
 
 
 ----
