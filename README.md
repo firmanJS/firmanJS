@@ -1,5 +1,5 @@
-### Welcome to my profile :earth_asia: 
-
+## Welcome to my profile :earth_asia: 
+### ![](https://komarev.com/ghpvc/?username=firmanJS&label=Views)
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/firman-abdul-hakim-2a818b92">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
