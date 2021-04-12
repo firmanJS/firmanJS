@@ -1,4 +1,4 @@
-### Welcome to my profile :earth_asia:
+### Welcome to my profile :earth_asia: 
 
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/firman-abdul-hakim-2a818b92">
@@ -12,11 +12,15 @@
    </a>
  </p>
 
+
 ---- 
 Hi, I'm [Firman Abdul Hakim](https://firmanjs.github.io), but you can call me **firman or fim**. 
 
 I'm a Backend Engineer from Sukabumi :heart: 🧐 :computer:. 
-
+<p>
+  <img src ="https://raw.githubusercontent.com/ijlik/ijlik/master/octocat.gif" width="150px" />
+  <img src ="https://denolib.github.io/animated-deno-logo/deno-circle-thunder.gif" width="100px"/>
+</p>
 
 ----
 **Languages and Tools:**  
