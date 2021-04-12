@@ -1,12 +1,13 @@
 ### Welcome to my profile :earth_asia:
 
-<a target="_blank" href="https://www.linkedin.com/in/firman-abdul-hakim-2a818b92">
-  <img align="left" alt="Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />
-</a>
-<a target="_blank" href="https://www.facebook.com/fimzjs">
-  <img align="left" alt="Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" />
-</a>
-</br>
+<p>
+  <a target="_blank" href="https://www.linkedin.com/in/firman-abdul-hakim-2a818b92">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  </a>
+  <a target="_blank" href="https://www.facebook.com/fimzjs">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+ </p>
 
 ---- 
 Hi, I'm [Firman Abdul Hakim](https://firmanjs.github.io), but you can call me **firman or fim**. 
