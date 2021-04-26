@@ -46,4 +46,4 @@ I'm a Backend Engineer from Sukabumi :heart: 🧐 :computer:.
 </div>
 
 ----
-[![trophy](https://github-profile-trophy.vercel.app/?username=firmanJS)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=firmanJS&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
