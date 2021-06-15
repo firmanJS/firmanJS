@@ -20,6 +20,7 @@ I'm a Backend Engineer from Sukabumi :heart: 🧐 :computer:.
 <p>
   <img src ="https://raw.githubusercontent.com/ijlik/ijlik/master/octocat.gif" width="150px" />
   <img src ="https://denolib.github.io/animated-deno-logo/deno-circle-thunder.gif" width="110px"/>
+  <img src ="https://images4.programmersought.com/810/44/4463301429a7e1ae25c7e13922005e7a.gif" width="110px"/>
 </p>
 
 ----
