@@ -10,6 +10,9 @@
   <a target="_blank" href="https://firmanabdulhakim.medium.com/">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
    </a>
+    <a target="_blank" href="https://www.hackerrank.com/fimzhakim?hr_r=1/">
+    <img src="https://img.shields.io/badge/Hackerrank-2dc866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+   </a>
  </p>
 
 
