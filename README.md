@@ -46,7 +46,7 @@ I'm a Backend Engineer from Sukabumi :heart: 🧐 :computer:.
 ----
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=firmanJS&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firmanJS&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firmanJS&hide=php,html,css&layout=compact" />
 </div>
 
 ----
