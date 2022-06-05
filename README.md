@@ -19,7 +19,7 @@
 ---- 
 Hi, I'm [Firman Abdul Hakim](https://firmanjs.github.io), but you can call me **firman or fim**. 
 
-I'm a Backend Engineer from Sukabumi :heart: 🧐 :computer:. 
+I'm a Backend Engineer from Sukabumi, Palabuhanratu :heart: 🧐 :computer:. 
 <p>
   <img src ="https://raw.githubusercontent.com/ijlik/ijlik/master/octocat.gif" width="150" />
   <img src ="https://denolib.github.io/animated-deno-logo/deno-circle-thunder.gif" width="110"/>
