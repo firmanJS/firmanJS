@@ -44,7 +44,7 @@ I'm a Backend Engineer from Sukabumi, Palabuhanratu :heart: 🧐 :computer:.
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 
-----
+<!-- ---- -->
 <!-- <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=firmanJS&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firmanJS&hide=php,html,css&layout=compact" />
